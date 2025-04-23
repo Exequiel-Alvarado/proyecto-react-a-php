@@ -102,6 +102,6 @@ npm install
 ```bash
 npm run dev
 ```
-4. hacemos clip en donde dice `local host:"puerto"` se abrira el Leandin Page.
+4. hacemos clip en donde dice `http://localhost:3000` se abrira el Leandin Page.
 
 
