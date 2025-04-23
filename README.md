@@ -77,7 +77,7 @@ Ahora Otra Opcion para clonar el repositorio
 
 `GitHub Desktop`
 1. Abre `GitHub Desktop`
-2. Haz clic en `File > Clone repository…` o usa el botón + en la esquina superior izquierda y elige `"Clone repository"`.
+2. Haz click en `File > Clone repository…` o usa el botón + en la esquina superior izquierda y elige `"Clone repository"`.
 
 ![alt text](image-1.png)
 
@@ -87,7 +87,7 @@ Ahora Otra Opcion para clonar el repositorio
 ![alt text](image-2.png)
 
 4. Elige la carpeta de destino donde se guardará el repositorio en tu computador.
-Haz `clin en Clone`.
+Haz `click en Clone`.
 5. Luego acceder a `Visual Etudio Code`
 
 ![alt text](image-3.png)
