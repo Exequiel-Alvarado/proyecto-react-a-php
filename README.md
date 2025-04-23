@@ -80,12 +80,23 @@ Ahora Otra Opcion para clonar el repositorio
 2. Haz clic en `File > Clone repository…` o usa el botón + en la esquina superior izquierda y elige `"Clone repository"`.
 ![alt text](image-1.png)
 3. Puedes buscar el repositorio si está en tu cuenta o pegar la `URL del repositorio`.
-- esta es la URL: [https://github.com/Exequiel-Alvarado/proyecto-react-a-php.git]
+- esta es la URL: https://github.com/Exequiel-Alvarado/proyecto-react-a-php.git
 ![alt text](image-2.png)
 4. Elige la carpeta de destino donde se guardará el repositorio en tu computador.
 Haz `clin en Clone`.
-5. 
+5. Luego acceder a `Visual Etudio Code`
+![alt text](image-3.png)
 
-
+**Paso a seguir para en VS Code**
+1. en terminal selecionamo `bash`
+2. ejecutamos el siguiente comando
+```bash
+npm install
+```
+3. para correrlo en la misma terminal ejecutamos el siguiente comando
+```bash
+npm run dev
+```
+4. hacemos clip en donde dice `local host:"puerto"` se abrira el Leandin Page.
 
 
