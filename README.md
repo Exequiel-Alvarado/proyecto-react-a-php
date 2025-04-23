@@ -53,7 +53,39 @@ Transformar el código de la landing en la base de un theme funcional en WordPre
 ## Paso a seguir para `Parte 1` ---> para que funciones de manera local  n.n!
 **Deben tener instalado lo siguiente**
 
-- `/Node.js `- Instarlarlo de manera global 
-- `/npm `- para ejecutar comando dentro del terminal
-- `Visual Estudio Code `- Herramienta para ejecutar el proyecto
+
+- `Node.js `- Instarlarlo de manera global .
+- `npm `- para ejecutar comando dentro del terminal.
+- `Visual Estudio Code `- Herramienta para ejecutar el proyecto.
+- `Git `- Para ocupar la terminal.
+- `Githud Desktop `- para poder Clonar la rama. 
+
+**Paso a seguir para Clonar Repositorio**
+`Git`
+1. Abrir el termina de `Git Bash`
+2. Colocar el siguiente comando para selecionar la carpeta donde se va a guardar
+```bash
+cd ruta/a/mi/carpeta
+```
+3. Luego Clonar el repositorio usando el siguiente comando `git clone`
+```bash
+git clone https://github.com/Exequiel-Alvarado/proyecto-react-a-php.git
+```
+4. Luego ingresa a la carpeta del proyecto y clip secundario abrir con `VS Code`
+
+Ahora Otra Opcion para clonar el repositorio
+
+`GitHub Desktop`
+1. Abre `GitHub Desktop`
+2. Haz clic en `File > Clone repository…` o usa el botón + en la esquina superior izquierda y elige `"Clone repository"`.
+![alt text](image-1.png)
+3. Puedes buscar el repositorio si está en tu cuenta o pegar la `URL del repositorio`.
+- esta es la URL: [https://github.com/Exequiel-Alvarado/proyecto-react-a-php.git]
+![alt text](image-2.png)
+4. Elige la carpeta de destino donde se guardará el repositorio en tu computador.
+Haz `clin en Clone`.
+5. 
+
+
+
 
