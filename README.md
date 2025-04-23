@@ -12,9 +12,10 @@ lógica estructural y orden de desarrollo profesional.
 ## 2.-Requesitos del entregable
 
 **El repositorio debe incluir:**
-    -`/landing `- Maquetación pura (HTML, CSS, JS o Framwork si lo desea)
-    -`/wp-theme `- Carpeta de theme WordPress personalizada con la landing implementada
-    -`README.md `- Instrucciones para probarlo en local ()
+
+- `/landing `- Maquetación pura (HTML, CSS, JS o Framwork si lo desea)
+- `/wp-theme `- Carpeta de theme WordPress personalizada con la landing implementada
+- `README.md `- Instrucciones para probarlo en local ()
 
 ## Parte 1: Construcción de la Landing Page
 
