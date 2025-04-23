@@ -50,5 +50,10 @@ Transformar el código de la landing en la base de un theme funcional en WordPre
 - Uso de get_template_directory_uri() para cargar imágenes o estilos
 ```
 
+## Paso a seguir para `Parte 1` ---> para que funciones de manera local  n.n!
+**Deben tener instalado lo siguiente**
 
+- `/Node.js `- Instarlarlo de manera global 
+- `/npm `- para ejecutar comando dentro del terminal
+- `Visual Estudio Code `- Herramienta para ejecutar el proyecto
 
