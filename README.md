@@ -22,18 +22,18 @@ lógica estructural y orden de desarrollo profesional.
 **Diseño Base**
 
 ```js
-    - Hero con imagen, texto y CTA
-    - Sección de Servicios (mín. 3 cards con icono + título + descripción)
-    - Sección de Carrusel Testimonios ( nombre + comentario + foto )
-    - Sección de “FAQ” con opciones desplegables
-    - Footer con redes sociales y contacto
+- Hero con imagen, texto y CTA
+- Sección de Servicios (mín. 3 cards con icono + título + descripción)
+- Sección de Carrusel Testimonios ( nombre + comentario + foto )
+- Sección de “FAQ” con opciones desplegables
+- Footer con redes sociales y contacto
 ```
 
 **Tecnologías:**
 ```js
-    - HTML5 + SCSS (o CSS Modules si usa framework)
-    - Mobile first / responsive
-    - JS Vanilla o React
+- HTML5 + SCSS (o CSS Modules si usa framework)
+- Mobile first / responsive
+- JS Vanilla o React
 ```
 
 ## Parte 2: Adaptación a WordPress Theme
@@ -42,12 +42,12 @@ lógica estructural y orden de desarrollo profesional.
 Transformar el código de la landing en la base de un theme funcional en WordPress.
 **Archivos mínimos esperados:**
 ```css
-    - style.css (con header estándar de WP)
-    - index.php
-    - header.php y footer.php
-    - functions.php con enqueue de los assets de la landing
-    - page-landing.php o front-page.php con HTML de la landing integrado
-    - Uso de get_template_directory_uri() para cargar imágenes o estilos
+- style.css (con header estándar de WP)
+- index.php
+- header.php y footer.php
+- functions.php con enqueue de los assets de la landing
+- page-landing.php o front-page.php con HTML de la landing integrado
+- Uso de get_template_directory_uri() para cargar imágenes o estilos
 ```
 
 
